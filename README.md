@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<div class="tenor-gif-embed" data-postid="16860164543817319924" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/luffy-gif-16860164543817319924">Luffy GIF</a>from <a href="https://tenor.com/search/luffy-gifs">Luffy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img height="300" width="700" alt="GIF" align="center" src="https://raw.githubusercontent.com/HaneeshDev/haneesh/main/assets/208593.gif">
 </div>
 
 </br>
