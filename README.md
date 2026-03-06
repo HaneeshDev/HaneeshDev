@@ -11,7 +11,7 @@
 
 # About ME 💬 :
 
-### - Computer Engineer and pursuing a Master’s Degree in Information Security.
+### - Computer Engineer and pursuing a Master’s Degree in Artificial Intelligence.
 
 <img height="400" width="500" alt="GIF" align="right" src="https://raw.githubusercontent.com/HaneeshDev/haneesh/main/assets/1936.gif">
 
